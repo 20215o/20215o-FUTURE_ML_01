@@ -6,6 +6,9 @@
 This project uses **Python (Prophet)** and **Power BI** to create an interactive dashboard that forecasts retail sales and helps businesses identify trends, seasonal behavior, and top categories.
 
 ---
+## Screen record:
+https://github.com/20215o/20215o-FUTURE_ML_01/commit/4294d7519c5e34a671487868dfa24a3419106581
+
 
 ## 🔧 Tools Used
 - Power BI Desktop
